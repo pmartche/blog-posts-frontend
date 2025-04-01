@@ -1,1 +1,1 @@
-# practice-app-frontend
+# blog-posts-frontend
